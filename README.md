@@ -19,6 +19,15 @@ A Cyber Security enthusiastic
   <tr> <!-- Start - Table Row 1 -->
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+        width="48"
+        height="48"
+        alt="Raspberry Pi"
+      />
+      <br/> <strong> Raspberry Pi </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
         width="48"
         height="48"
@@ -89,6 +98,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Visual Basic </strong>
     </td>
+  </tr> <!-- End - Table Row 1 -->        
+  <tr> <!-- Start Table Row 2 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -98,8 +109,6 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> JavaScript </strong>
     </td>
-  </tr> <!-- End - Table Row 1 -->        
-  <tr> <!-- Start Table Row 2 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
@@ -172,6 +181,8 @@ A Cyber Security enthusiastic
       />
       <br /><strong> Git </strong>
     </td>
+  </tr>  <!-- End - Table Row 2 -->
+  <tr> <!-- Start - Table Row 3 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -181,8 +192,6 @@ A Cyber Security enthusiastic
       />    
       <br /><strong> GitHub </strong>
     </td>
-  </tr>  <!-- End - Table Row 2 -->
-  <tr> <!-- Start - Table Row 3 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
@@ -255,6 +264,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> MySQL </strong>
     </td>
+  </tr>  <!-- End - Table Row 3 -->
+  <tr> <!-- Start - Table Row 4 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
@@ -264,8 +275,6 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Linux </strong>
     </td>
-  </tr>  <!-- End - Table Row 3 -->
-  <tr> <!-- Start - Table Row 4 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"
