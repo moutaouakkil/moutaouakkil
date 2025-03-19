@@ -58,7 +58,7 @@ A Cyber Security enthusiastic
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="Python""
+        alt="Python"
       />
       <br/> <strong> Python </strong>
     </td>
@@ -98,6 +98,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> JavaScript </strong>
     </td>
+  </tr> <!-- End - Table Row 1 -->        
+  <tr> <!-- Start Table Row 2 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
@@ -107,8 +109,6 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> TypeScript </strong>
     </td>
-  </tr> <!-- End - Table Row 1 -->        
-  <tr> <!-- Start Table Row 2 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
@@ -132,7 +132,7 @@ A Cyber Security enthusiastic
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"
         width="48"
         height="48"
-        alt="xml"
+        alt="XML"
       />
       <br/> <strong> XML </strong>
     </td>
@@ -181,6 +181,8 @@ A Cyber Security enthusiastic
       />    
       <br /><strong> GitHub </strong>
     </td>
+  </tr>  <!-- End - Table Row 2 -->
+  <tr> <!-- Start - Table Row 3 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
@@ -199,8 +201,6 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Visual Studio Code </strong>
     </td>
-  </tr>  <!-- End - Table Row 2 -->
-  <tr> <!-- Start - Table Row 3 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
@@ -264,6 +264,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Linux </strong>
     </td>
+  </tr>  <!-- End - Table Row 3 -->
+  <tr> <!-- Start - Table Row 4 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"
@@ -291,8 +293,6 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Figma </strong>
     </td>
-  </tr>  <!-- End - Table Row 3 -->
-  <tr> <!-- Start - Table Row 4 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"
@@ -322,7 +322,7 @@ A Cyber Security enthusiastic
     </td>
   </tr>  <!-- End - Table Row 4 -->
 </table>
-<!-- Start - Arsenal -->
+<!-- End - Arsenal -->
 
 <br/>
 
