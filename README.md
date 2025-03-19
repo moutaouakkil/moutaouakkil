@@ -13,7 +13,7 @@ A Cyber Security enthusiastic
 <!-- End - About Me -->
 
 <!-- Start - Arsenal -->
-## :toolbox: Arsenal
+## :toolbox: Arsenal (Tech Stack)
 
 <table>
   <tr> <!-- Start - Table Row 1 -->
@@ -156,6 +156,15 @@ A Cyber Security enthusiastic
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br/> <strong> Bootstrap </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
@@ -190,6 +199,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Visual Studio Code </strong>
     </td>
+  </tr>  <!-- End - Table Row 2 -->
+  <tr> <!-- Start - Table Row 3 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
@@ -199,8 +210,15 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> PyCharm </strong>
     </td>
-  </tr>  <!-- End - Table Row 2 -->
-  <tr> <!-- Start - Table Row 3 -->
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br/> <strong> AWS </strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
@@ -218,6 +236,24 @@ A Cyber Security enthusiastic
         alt="Postman"
       />
       <br/> <strong> Postman </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+        width="48"
+        height="48"
+        alt="WordPress"
+      />
+      <br/> <strong> WordPress </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br/> <strong> MySQL </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -239,6 +275,15 @@ A Cyber Security enthusiastic
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+        width="48"
+        height="48"
+        alt="Jira"
+      />
+      <br/> <strong> Jira </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
         height="48"
@@ -246,6 +291,8 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Figma </strong>
     </td>
+  </tr>  <!-- End - Table Row 3 -->
+  <tr> <!-- Start - Table Row 4 -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"
@@ -273,7 +320,7 @@ A Cyber Security enthusiastic
       />
       <br/> <strong> Illustrator </strong>
     </td>
-  </tr>  <!-- End - Table Row 3 -->
+  </tr>  <!-- End - Table Row 4 -->
 </table>
 <!-- Start - Arsenal -->
 
