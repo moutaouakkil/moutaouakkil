@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi 👋 I'm Othmane
-A Cyber Security enthusiastic
+A Cyber Security enthusiast
 <br/><br/>
 [![My Hacking Journey](https://img.shields.io/badge/My_Hacking_Journey-_-blue)](https://blog.othmanemoutaouakkil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-_-blue)](https://www.linkedin.com/in/moutaouakkil)
