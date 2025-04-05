@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi 👋 I'm Othmane
-A Cyber Security enthusiast
+A Cyber Security Enthusiast
 <br/><br/>
 [![My Hacking Journey](https://img.shields.io/badge/My_Hacking_Journey-_-blue)](https://blog.othmanemoutaouakkil.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-_-blue)](https://www.linkedin.com/in/moutaouakkil)
@@ -336,13 +336,9 @@ A Cyber Security enthusiast
 <br/>
 
 <!-- Start - GitHub Stats -->
-<div align="center">
-  <p>
-    <!-- TOP LANGUAGES BAR -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moutaouakkil&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-    &nbsp;&nbsp;&nbsp;
-    <!-- GITHUB STATS -->
-    <img src="https://github-readme-stats.vercel.app/api?username=moutaouakkil&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  </p>
-</div>
+![moutaouakkil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moutaouakkil&theme=react&show_icons=true&hide_border=false&layout=compact)
+<br/>
+![moutaouakkil's Stats](https://github-readme-stats.vercel.app/api?username=moutaouakkil&theme=react&show_icons=true&hide_border=false&count_private=true)
+<br/>
+![moutaouakkil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moutaouakkil&theme=react&hide_border=false)
 <!-- End - GitHub Stats -->
