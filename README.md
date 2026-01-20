@@ -5,7 +5,6 @@
 A Cyber Security Enthusiast
 <br/><br/>
 [![My Hacking Journey](https://img.shields.io/badge/My_Hacking_Journey-_-blue)](https://blog.othmanemoutaouakkil.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-_-blue)](https://www.linkedin.com/in/moutaouakkil)
 [![Website](https://img.shields.io/badge/Website-_-blue)](https://portfolio.othmou.com)
 </div>
 
